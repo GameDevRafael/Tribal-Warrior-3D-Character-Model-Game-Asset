@@ -23,9 +23,9 @@ This character is ready to be imported into Unity, featuring an **ancient warrio
 
 I used advanced techniques to balance detail and efficiency:
 
-- **Mirror Modifier**: Ensures symmetry, with half of the character mirrored to the other half.  
-- **Multiresolution Sculpting**: For detailed features like veins, muscle definition, skin texture, and realistic clothing details.  
-- **Solidify Modifier**: Applied for clothing items such as a leather skirt, metal bracelets, and leather boots with pointed tips.  
+- **Mirror Modifier**: Mirrored half of the character in order to save time and have a consistent mesh.  
+- **Multiresolution Sculpting**: Used for detailed features like veins, muscle definition, skin texture and realistic clothing details.  
+- **Solidify Modifier**: Some meshes were started as planed which required this modifier. 
 - **Shrinkwrap Modifier**: Used for retopology, creating a new low-poly mesh adhering to the sculpt, followed by normal, AO and color map baking.
 
 ---
@@ -45,8 +45,8 @@ The character is fully rigged with an armature and includes animations for:
 
 Baked maps ensure a high-quality look in-game:
 
-- **Normal Map**: Captures fine details like veins, muscle definition, and skin texture.  
-- **Color/AO Map**: Provides realistic colors for skin, leather, and metal, alongside correct simulation of lighting effects.
+- **Normal Map**: Captures details like veins, muscle definition, and skin texture.  
+- **Color/AO Map**: Provides realistic colors for skin, leather and metal, alongside correct simulation of lighting effects.
 
 ---
 
@@ -54,9 +54,9 @@ Baked maps ensure a high-quality look in-game:
 
 My asset is best suited for these types of games:
 
-- **Action**: Perfect for the ancient warrior aesthetic.  
-- **Fantasy**: Ideal for roles such as gladiators, mercenaries, or mythical fighters.  
-- **Adventure**: A versatile character for exploration and storytelling.
+- Action: the ancient warrior aesthetic is fit for this.
+- Fantasy: for roles like gladiators, mercenaries or mythical fighters.
+- Adventure: a versatile character for exploration and storytelling.
 
 ---
 
