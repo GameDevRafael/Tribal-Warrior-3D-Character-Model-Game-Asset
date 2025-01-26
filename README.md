@@ -9,11 +9,11 @@ This character is ready to be imported into Unity, featuring an **ancient warrio
 
 ## Technical Specifications
 
-- **Modeling Software**: Blender 3.6.2  
-- **Polygon Count**: Optimized for low-poly design with retopology techniques  
-- **Topology**: 100% tris/quads (no n-gons) with efficient UV mapping  
-- **Texture Resolution**: 4K PBR Maps  
-  - **Normal**, **AO** and **Color maps** baked for high-quality detail  
+- **Modeling Software**: Blender 3.6.2
+- **Polygon Count**: 3,558 vertices
+  - Topology: 100% tris/quads (no n-gons) and no non-manifold geometries
+- **Texture**: All baked and done by me at 1024x1024.
+  - Color, Normal, Ambient Oclusion.
 
 ---
 
