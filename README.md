@@ -13,7 +13,7 @@ This character is ready to be imported into Unity, featuring an **ancient warrio
 - **Polygon Count**: Optimized for low-poly design with retopology techniques  
 - **Topology**: 100% tris/quads (no n-gons) with efficient UV mapping  
 - **Texture Resolution**: 4K PBR Maps  
-  - **Normal**, **UV**, and **color maps** baked for high-quality detail  
+  - **Normal**, **AO** and **Color maps** baked for high-quality detail  
 
 ---
 
@@ -26,7 +26,7 @@ I used advanced techniques to balance detail and efficiency:
 - **Mirror Modifier**: Ensures symmetry, with half of the character mirrored to the other half.  
 - **Multiresolution Sculpting**: For detailed features like veins, muscle definition, skin texture, and realistic clothing details.  
 - **Solidify Modifier**: Applied for clothing items such as a leather skirt, metal bracelets, and leather boots with pointed tips.  
-- **Shrinkwrap Modifier**: Used for retopology, creating a new low-poly mesh adhering to the sculpt, followed by normal/UV and color map baking.
+- **Shrinkwrap Modifier**: Used for retopology, creating a new low-poly mesh adhering to the sculpt, followed by normal, AO and color map baking.
 
 ---
 
@@ -46,7 +46,7 @@ The character is fully rigged with an armature and includes animations for:
 Baked maps ensure a high-quality look in-game:
 
 - **Normal Map**: Captures fine details like veins, muscle definition, and skin texture.  
-- **Color/UV Map**: Provides realistic colors for skin, leather, and metal, alongside accurate texture placement.
+- **Color/AO Map**: Provides realistic colors for skin, leather, and metal, alongside correct simulation of lighting effects.
 
 ---
 
