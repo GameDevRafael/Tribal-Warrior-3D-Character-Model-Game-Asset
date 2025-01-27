@@ -64,14 +64,17 @@ My asset is best suited for these types of games:
 
 ### Front View  
 ![Front View](Renders/FrontView.jpg)
+
 *Front view of the character.*
 
 ### Back View  
 ![Back View](Renders/BackView.jpg)
+
 *This angle highlights the back design of the character.*
 
 ### Side View  
 ![Side View](Renders/SideView.jpg)
+
 *A profile view of the asset.*
 ---
 
