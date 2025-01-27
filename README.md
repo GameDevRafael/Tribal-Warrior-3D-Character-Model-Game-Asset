@@ -63,20 +63,16 @@ My asset is best suited for these types of games:
 ## Render Gallery
 
 ### Front View  
-Front view of the character.
-
 ![Front View](Renders/FrontView.jpg)
+*Front view of the character.*
 
 ### Back View  
-This angle highlights the back design of the character.
-
 ![Back View](Renders/BackView.jpg)
+*This angle highlights the back design of the character.*
 
 ### Side View  
-A profile view of the asset.
-
 ![Side View](Renders/SideView.jpg)
-
+*A profile view of the asset.*
 ---
 
 ## How to Use
