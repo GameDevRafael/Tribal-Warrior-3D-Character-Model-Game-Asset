@@ -76,6 +76,7 @@ My asset is best suited for these types of games:
 ![Side View](Renders/SideView.jpg)
 
 *A profile view of the asset.*
+
 ---
 
 ## How to Use
