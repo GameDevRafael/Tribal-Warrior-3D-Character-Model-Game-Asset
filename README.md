@@ -63,16 +63,16 @@ My asset is best suited for these types of games:
 ## Render Gallery
 
 ### Front View  
-This front view showcases the character’s detailed torso, leather skirt, and bracelets.
+Front view of the character.
+![Front View](Renders/FrontView.jpg)
 
 ### Back View  
-This angle highlights the back design of the character, including the leather skirt and muscular definition.
+This angle highlights the back design of the character.
+![Back View](Renders/BackView.jpg)
 
 ### Side View  
-A profile view emphasizing the pointed boots and side details of the accessories.
-
-### Animation Preview  
-[Watch the full animation preview](renders/animation.mp4)
+A profile view of the asset.
+![Side View](Renders/SideView.jpg)
 
 ---
 
