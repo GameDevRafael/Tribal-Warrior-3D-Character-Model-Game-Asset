@@ -62,31 +62,28 @@ My asset is best suited for these types of games:
 
 ## Render Gallery
 
-### Front View  
 <p align="center">
+  ### Front View  
+  
   <a href="https://www.youtube.com/watch?v=r6bkUB3pCgs">
     <img src="Renders/FrontView.jpg">
   </a><br>
   <em>Click on the image to watch the short trailer on Youtube</em>
 </p>
 
-*Front view of the character.*
-
-### Back View  
 <p align="center">
+  ### Back View  
+  
   <img src="Renders/BackView.jpg">
   <br>
 </p>
 
-*This angle highlights the back design of the character.*
-
-### Side View  
 <p align="center">
+  ### Side View  
+  
   <img src="Renders/SideView.jpg">
   <br>
 </p>
-
-*A profile view of the asset.*
 
 ---
 
