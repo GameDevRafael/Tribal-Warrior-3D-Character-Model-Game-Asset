@@ -63,7 +63,12 @@ My asset is best suited for these types of games:
 ## Render Gallery
 
 ### Front View  
-![Front View](Renders/FrontView.jpg)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=r6bkUB3pCgs">
+    <img src="Renders/FrontView.jpg">
+  </a><br>
+  <em>Click on the image to watch the short trailer on Youtube</em>
+</p>
 
 *Front view of the character.*
 
