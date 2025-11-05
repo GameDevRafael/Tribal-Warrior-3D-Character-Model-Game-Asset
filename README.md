@@ -64,7 +64,7 @@ My asset is best suited for these types of games:
 
 <div align="center">
 
-### Front View - Click on the image to watch the trailer on Youtube
+### Front View - Click on the image to watch a flythrough on Youtube
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=r6bkUB3pCgs">
